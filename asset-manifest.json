@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weathercity/static/css/main.a799ac53.css",
+    "main.js": "/weathercity/static/js/main.df818dc5.js",
+    "static/js/787.5d1d66c1.chunk.js": "/weathercity/static/js/787.5d1d66c1.chunk.js",
+    "static/media/background.jpg": "/weathercity/static/media/background.4f5a6369413f5645d372.jpg",
+    "index.html": "/weathercity/index.html",
+    "main.a799ac53.css.map": "/weathercity/static/css/main.a799ac53.css.map",
+    "main.df818dc5.js.map": "/weathercity/static/js/main.df818dc5.js.map",
+    "787.5d1d66c1.chunk.js.map": "/weathercity/static/js/787.5d1d66c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a799ac53.css",
+    "static/js/main.df818dc5.js"
+  ]
+}
